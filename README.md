@@ -1,7 +1,7 @@
 # Полезни линкове
 
 ## Business
-[KickResume](https://www.kickresume.com/en/) - Сайт за създаване на красиви CV-та.
+[KickResume](https://www.kickresume.com/en/) - Сайт за създаване на красиви CV-та.  
 [SlidesCarnival](https://www.slidescarnival.com/) - Безплатни и свободни за ползване слайдове и шаблони за презентации.
 [Animatron](https://www.animatron.com/) - Създаване на анимации за презентации или като самостоятелни видеа.
 [ILovePDF](https://www.ilovepdf.com/) - Голям набор от безплатни инструменти за манипулиране на PDF.
