@@ -56,7 +56,7 @@ title: Полезни линкове
 
 ## Math, Statistics and Diagrams
 [OmniCalculator](https://www.omnicalculator.com/) - Над 2000 калкулатора от различни сфери на науката.  
-[Diagrams](https://app.diagrams.net/) - Сайт за лесно създаване на диаграми, графики и чартове.
+[Diagrams](https://app.diagrams.net/) - Сайт за лесно създаване на диаграми, графики и чартове.  
 [MathWay](https://www.mathway.com/Algebra) - Оналйн калкулатор с много функционалности.  
 
 ## Miscellaneous
