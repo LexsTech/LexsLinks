@@ -5,6 +5,11 @@
 [KickResume](https://www.kickresume.com/en/) - Сайт за създаване на красиви CV-та.  
 [SlidesCarnival](https://www.slidescarnival.com/) - Безплатни и свободни за ползване слайдове и шаблони за презентации.  
 [Animatron](https://www.animatron.com/) - Създаване на анимации за презентации или като самостоятелни видеа.  
+[Flexiple](https://2.flexiple.com/scale/multi-color-illustrations) - Безплатни илюстрации с позволение за научно и комерсиално ползване без цитиране.  
+[Unidraw](https://undraw.co/search) - Безплатни илюстрации с позволение за научно и комерсиално ползване без цитиране.  
+[ManyPixels](https://www.manypixels.co/gallery) - Безплатни илюстрации с позволение за научно и комерсиално ползване без цитиране.  
+[PixeslTrue](https://www.pixeltrue.com/free-illustrations) - Безплатни илюстрации с позволение за научно и комерсиално ползване без цитиране.  
+[IconsCout](https://iconscout.com/free-illustrations) - Безплатни илюстрации с позволение за научно и комерсиално ползване без цитиране.  
 [ILovePDF](https://www.ilovepdf.com/) - Голям набор от безплатни инструменти за манипулиране на PDF.  
 
 ## Copyright freedom
@@ -26,11 +31,11 @@
 
 ## Law
 [Lawinsider](https://www.lawinsider.com/) - База с договори и клаузи.  
-[Lawprof](https://lawprof.co/) - Курирана база данни със съдебни решения от Обединеното кралство.  
+[Lawprof](https://lawprof.co/) - Курирана база данни със съдебни решения от Обединеното кралство.
 
 ## Library and books
 [WorldCat](https://www.worldcat.org/) - Най-големия отворен каталог за книги и библиотечна информация.  
-[Crossref](https://search.crossref.org/) - Сайт за търсене на библиотечна информация и материали по тема или заглавие.  
+[Crossref](https://search.crossref.org/) - Сайт за търсене на библиотечна информация и материали по тема или заглавие.
 
 ## Math, Statistics and Diagrams
 [OmniCalculator](https://www.omnicalculator.com/) - Над 2000 калкулатора от различни сфери на науката.  
