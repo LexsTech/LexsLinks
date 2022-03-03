@@ -1,3 +1,4 @@
+
 # Полезни линкове
 
 ## Business
@@ -9,6 +10,7 @@
 ## Copyright freedom
 [12ft](https://12ft.io/) - Премахва изискването за абонамент на повечето новинарски сайтове (български и чуждестранни).  
 [DownScribd](https://downscribd.com/) - Сайт за сваляне на книги, документи и аудиокниги от сайта [Scribd](https://www.scribd.com/home).  
+[SNTI](http://snti.ru/international.php) - База с дани с най-различни стандарти - ISO, BS и други.  
 
 ## E-mail
 [10MinuteMail](https://10minutemail.com/) - Предоставя 10 минутна пощенска кутия за регистрация в сайтове.  
@@ -22,11 +24,17 @@
 [Snapdrop](http//snapdrop.net/) - Споделяне на файлове с други устройства в локална мрежа (Wi-Fi).  
 [Sharedrop](https://www.sharedrop.io/) - P2P споделяне на файлове с други устройства чрез споделяне на код.  
 
+## Law
+[Lawinsider](https://www.lawinsider.com/) - База с договори и клаузи.  
+[Lawprof](https://lawprof.co/) - Курирана база данни със съдебни решения от Обединеното кралство.  
+
 ## Library and books
 [WorldCat](https://www.worldcat.org/) - Най-големия отворен каталог за книги и библиотечна информация.  
+[Crossref](https://search.crossref.org/) - Сайт за търсене на библиотечна информация и материали по тема или заглавие.  
 
 ## Math, Statistics and Diagrams
 [OmniCalculator](https://www.omnicalculator.com/) - Над 2000 калкулатора от различни сфери на науката.  
+[Diagrams](https://app.diagrams.net/) - Сайт за лесно създаване на диаграми, графики и чартове.
 
 ## Miscellaneous
 [My90sTV](https://my90stv.com/#) - Гледай директно различни телевизионни програми от 90-те.  
