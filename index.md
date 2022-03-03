@@ -1,8 +1,6 @@
 ---
-title: none
+title: Полезни линкове
 ---
-
-# Полезни линкове
 
 ## Business
 [KickResume](https://www.kickresume.com/en/) - Сайт за създаване на красиви CV-та.  
