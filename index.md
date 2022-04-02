@@ -74,7 +74,9 @@ title: Полезни линкове
 [Libgen.me](https://libgen.me/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.   
 [Z-Library](https://b-ok.cc/) - Най-големия сайт за книги и статии, има всичко от Libgen и допълнителни източници.  
 [PDFDrive](https://www.pdfdrive.com/) - Голяма база данни с всякакви произведения.  
+[E-book Hunter](https://ebook-hunter.org/) - Голяма база данни с всякакви произведения
 [Calishot](https://www.reddit.com/r/opendirectories/comments/t4wk1v/calishot_202203_find_ebooks_amongst_395_calibre/) - Списък на незащитени онлайн библиотеки   
+[Free tech books](https://www.freetechbooks.com/) - архив с книги на компютърна тематика  
 [DownScribd](https://downscribd.com/) - Сайт за сваляне на книги, документи и аудиокниги от сайта [Scribd](https://www.scribd.com/home).  
 
 ## Piracy - Scientific Journals
@@ -84,7 +86,8 @@ title: Полезни линкове
 
 ## Piracy - Miscellaneous
 [12ft](https://12ft.io/) - Премахва изискването за абонамент на повечето новинарски сайтове (български и чуждестранни).  
-[SNTI](http://snti.ru/international.php) - База с дани с най-различни стандарти - ISO, BS и други.  
+[Magazinelib](https://magazinelib.com/) - База с данни с почти всички не-научни списания
+[SNTI](http://snti.ru/international.php) - База с данни с най-различни стандарти - ISO, BS и други.  
 
 ## Translation
 [DeepL](https://www.deepl.com/translator) - Най-добрия преводач за Европейски езици.  
