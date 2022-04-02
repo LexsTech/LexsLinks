@@ -2,6 +2,11 @@
 title: Полезни линкове
 ---
 
+## Books
+[OpenLibrary](https://openlibrary.org/) - Голям сайт за книги с изтекло авторско право, главно художествена литература.  
+[Memory of the world](http://library.memoryoftheworld.org/) - Голям сайт за книги с изтекло авторско право, главно художествена литература.  
+[Gutenberg](https://www.gutenberg.org/) - Голям сайт за книги с изтекло авторско право, главно художествена литература.  
+
 ## Business
 [KickResume](https://www.kickresume.com/en/) - Сайт за създаване на красиви CV-та.  
 [SlidesCarnival](https://www.slidescarnival.com/) - Безплатни и свободни за ползване слайдове и шаблони за презентации.  
@@ -15,23 +20,6 @@ title: Полезни линкове
 
 ## Chrome add-ons
 [SinglePage](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle) - Добавка за запазване на уебстраници в единичен офлайн файл.  
-
-## Copyright freedom
-[12ft](https://12ft.io/) - Премахва изискването за абонамент на повечето новинарски сайтове (български и чуждестранни).  
-[DownScribd](https://downscribd.com/) - Сайт за сваляне на книги, документи и аудиокниги от сайта [Scribd](https://www.scribd.com/home).  
-[SNTI](http://snti.ru/international.php) - База с дани с най-различни стандарти - ISO, BS и други.  
-[BioLine](http://www.bioline.org.br/) - Научноиздателски кооператив с нестопанска цел, осигуряващ свободен достъп до качествени научни списания, публикувани в развиващите се страни.  
-[Respec](http://repec.org/) - База данни с научни статии на икономическа и безнес тематика.  
-[PDFDrive](https://www.pdfdrive.com/) - Голяма база данни с всякакви произведения.  
-[Libgen.rs](http://libgen.rs/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.  
-[Libgen.fun](https://libgen.fun/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.    
-[Libgen.lc](https://libgen.lc/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.  
-[Libgen.me](https://libgen.me/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.   
-[Z-Library](https://b-ok.cc/) - Най-големия сайт за книги и статии, има всичко от Libgen и допълнителни източници.  
-[Sci-hub](https://sci-hub.se/) - Най-големия сайт за научни статии, качени до 2020г.  
-[OpenLibrary](https://openlibrary.org/) - Голям сайт за книги с изтекло авторско право, главно художествена литература.  
-[Memory of the world](http://library.memoryoftheworld.org/) - Голям сайт за книги с изтекло авторско право, главно художествена литература.  
-[Gutenberg](https://www.gutenberg.org/) - Голям сайт за книги с изтекло авторско право, главно художествена литература.  
 
 ## E-mail
 [10MinuteMail](https://10minutemail.com/) - Предоставя 10 минутна пощенска кутия за регистрация в сайтове.  
@@ -49,7 +37,7 @@ title: Полезни линкове
 [Lawinsider](https://www.lawinsider.com/) - База с договори и клаузи.  
 [Lawprof](https://lawprof.co/) - Курирана база данни със съдебни решения от Обединеното кралство.  
 
-## Library and books
+## Library and Catalogs
 [WorldCat](https://www.worldcat.org/) - Най-големия отворен каталог за книги и библиотечна информация.  
 [Crossref](https://search.crossref.org/) - Сайт за търсене на библиотечна информация и материали по тема или заглавие.  
 [RefSeek](https://www.refseek.com/) - Академична търсачка за студенти и изследователи. Открива подходящи академични резултати от уеб страници, книги, енциклопедии и списания.  
@@ -77,7 +65,26 @@ title: Полезни линкове
 ## Picture manipulation
 [TheInPaint](https://theinpaint.com/) - Премахва ненужни неща от снимки.  
 [Remove.bg](https://www.remove.bg/) - Премахва задния фон на снимки и картини.  
-[Photopea](https://www.photopea.com/) - Онлайн алтернатива на Photoshop. 
+[Photopea](https://www.photopea.com/) - Онлайн алтернатива на Photoshop.
+
+## Piracy - Books
+[Libgen.rs](http://libgen.rs/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.  
+[Libgen.fun](https://libgen.fun/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.    
+[Libgen.lc](https://libgen.lc/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.  
+[Libgen.me](https://libgen.me/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.   
+[Z-Library](https://b-ok.cc/) - Най-големия сайт за книги и статии, има всичко от Libgen и допълнителни източници.  
+[PDFDrive](https://www.pdfdrive.com/) - Голяма база данни с всякакви произведения.  
+[Calishot](https://www.reddit.com/r/opendirectories/comments/t4wk1v/calishot_202203_find_ebooks_amongst_395_calibre/) - Списък на незащитени онлайн библиотеки   
+[DownScribd](https://downscribd.com/) - Сайт за сваляне на книги, документи и аудиокниги от сайта [Scribd](https://www.scribd.com/home).  
+
+## Piracy - Scientific Journals
+[Sci-hub](https://sci-hub.se/) - Най-големия сайт за научни статии, качени до 2020г.  
+[Respec](http://repec.org/) - База данни с научни статии на икономическа и безнес тематика.  
+[BioLine](http://www.bioline.org.br/) - Научноиздателски кооператив с нестопанска цел, осигуряващ свободен достъп до качествени научни списания, публикувани в развиващите се страни.  
+
+## Piracy - Miscellaneous
+[12ft](https://12ft.io/) - Премахва изискването за абонамент на повечето новинарски сайтове (български и чуждестранни).  
+[SNTI](http://snti.ru/international.php) - База с дани с най-различни стандарти - ISO, BS и други.  
 
 ## Translation
 [DeepL](https://www.deepl.com/translator) - Най-добрия преводач за Европейски езици.  
