@@ -51,6 +51,9 @@ title: Полезни линкове
 [Research4Life](https://portal.research4life.org/) - Research4Life предоставя на институциите в страните с ниски и средни доходи онлайн достъп до академично и професионално рецензирано съдържание.  
 [Dimensions](https://app.dimensions.ai/discover/publication) - Най-голямата в света свързана информационна база данни за научни изследвания. Dimensions обхваща милиони научноизследователски публикации, свързани с повече от 1,5 милиарда цитирания, подкрепящи безвъзмездни средства, набори от данни, клинични изпитвания, патенти и политически документи.  
 [OpenAIRE](https://explore.openaire.eu/) - Изследователският граф OpenAIRE е една от най-големите колекции от отворени научни записи в света, която е от ключово значение за насърчаването на отворената наука и установяването на нейните практики в ежедневните изследователски дейности.  
+[EconBiz](https://www.econbiz.de/) - академичен портал за търсене на списания, работни документи и конференции в областта на бизнес изследванията и икономиката.  
+[SemanticScholar](semanticscholar.org) - търсачка за академични публикации, подкрепена от изкуствен интелект, разработена в Института за изкуствен интелект "Алън" и пусната публично през ноември 2015 г. Тя използва постиженията в областта на обработката на естествен език, за да предоставя резюмета на научни статии.  
+
 
 ## Math, Statistics and Diagrams
 [OmniCalculator](https://www.omnicalculator.com/) - Над 2000 калкулатора от различни сфери на науката.  
@@ -74,8 +77,8 @@ title: Полезни линкове
 [Libgen.me](https://libgen.me/) -  Сайт за безплатни книги и статии. Всеки libgen е различен от другите.   
 [Z-Library](https://b-ok.cc/) - Най-големия сайт за книги и статии, има всичко от Libgen и допълнителни източници.  
 [PDFDrive](https://www.pdfdrive.com/) - Голяма база данни с всякакви произведения.  
-[E-book Hunter](https://ebook-hunter.org/) - Голяма база данни с всякакви произведения
-[Calishot](https://www.reddit.com/r/opendirectories/comments/t4wk1v/calishot_202203_find_ebooks_amongst_395_calibre/) - Списък на незащитени онлайн библиотеки   
+[E-book Hunter](https://ebook-hunter.org/) - Голяма база данни с всякакви произведения.  
+[Calishot](https://www.reddit.com/r/opendirectories/comments/t4wk1v/calishot_202203_find_ebooks_amongst_395_calibre/) - Списък на незащитени онлайн библиотеки.   
 [Free tech books](https://www.freetechbooks.com/) - архив с книги на компютърна тематика  
 [DownScribd](https://downscribd.com/) - Сайт за сваляне на книги, документи и аудиокниги от сайта [Scribd](https://www.scribd.com/home).  
 
@@ -86,7 +89,7 @@ title: Полезни линкове
 
 ## Piracy - Miscellaneous
 [12ft](https://12ft.io/) - Премахва изискването за абонамент на повечето новинарски сайтове (български и чуждестранни).  
-[Magazinelib](https://magazinelib.com/) - База с данни с почти всички не-научни списания
+[Magazinelib](https://magazinelib.com/) - База с данни с почти всички не-научни списания.  
 [SNTI](http://snti.ru/international.php) - База с данни с най-различни стандарти - ISO, BS и други.  
 
 ## Translation
